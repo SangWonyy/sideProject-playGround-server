@@ -1,4 +1,5 @@
 # graphql-with-ts
+# 현재 AWS 만료로 서버이용은 불가
 
 - **HTTP서버 : fastify** - https://www.fastify.io/
   - 블로그에 정리 
