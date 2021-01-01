@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dac28ed-fcc9-465d-a8a9-15f1824d2a80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sideProject-playGround-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/input/imgResource/imgResource.input.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/interface/fileUploadWithBuffer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/output/imgResource/imgResource.output.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resolver/imgResource/imgResource.resolver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resolver/user/user.resolver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/schema/imgResource/imgResource.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/schema/user/user.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/constant.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/db.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/fileUtil.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/logger.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/s3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mSG3tf5ml9pIBkXZAZrPs17Tgz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sangwon\WebstormProjects\sideProject-playGround-server" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dac28ed-fcc9-465d-a8a9-15f1824d2a80" name="Default Changelist" comment="" />
+      <created>1609479383264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609479383264</updated>
+      <workItem from="1609479384589" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="203" key="GridCell.Tab.0.bottom" timestamp="1609479441915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609479441915" />
+    <state width="1515" height="203" key="GridCell.Tab.0.center" timestamp="1609479441914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609479441914" />
+    <state width="1515" height="203" key="GridCell.Tab.0.left" timestamp="1609479441913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609479441913" />
+    <state width="1515" height="203" key="GridCell.Tab.0.right" timestamp="1609479441914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609479441914" />
+  </component>
+</project>

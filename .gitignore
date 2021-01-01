@@ -1,0 +1,14 @@
+# dotenv environment variables file
+env/*
+
+# node-waf configuration
+.lock-wscript
+
+# Dependency directories
+node_modules/
+
+# Project exclude paths
+/node_modules/
+
+# Optional npm cache directory
+.npm
